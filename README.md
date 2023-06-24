@@ -19,13 +19,13 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning **Data Science Tools.**
 
-- 👯 I’m looking to collaborate on **Front End Development.**
+- 👯 I’m looking to collaborate on **Data Science & Machine Learning Projects.**
 
-- 🤝 I’m looking for help with **Software Development Tools.**
+- 🤝 I’m looking for help with **Product Management.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/alinasahoo](https://github.com/alinasahoo)
 
-- 💬 Ask me about **Machine Learning, Java, Python, HTML, CSS, JavaScript.**
+- 💬 Ask me about **Data Analysis, Machine Learing, Business Planning, Project Management.**
 
 - ⚡ Fun fact **Chai over Coffee!**
 
