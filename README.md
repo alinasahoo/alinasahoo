@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 ## Wanna know more of me, just drop a "Hello" anywhere below: 
 <div>
 <a href="https://www.linkedin.com/in/imalinasahoo" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="https://www.instagram.com/imalinsahoo" target="_blank"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
-<a href="https://www.instagram.com/imalinasahoo/" target="_blank"><img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
+<a href="https://www.instagram.com/imalinasahoo/" target="_blank"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
+<a href="https://www.facebook.com/imalinasahoo" target="_blank"><img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
 <a href="https://dev.to/alinasahoo" target="_blank"><img src="https://img.shields.io/badge/DEV-%230A0A0A.svg?&style=flat-square&logo=DEV.to&logoColor=white" alt="DEV.to"></a>
 </div>
