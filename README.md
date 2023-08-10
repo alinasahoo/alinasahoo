@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hi 👋, I'm Alina Sahoo!</h1>
-<h3 align="center">A passionate developer interested in Front-End Development, Machine Learning, Data Science & Analytics.</h3>
+<h3 align="center">A data-driven person using tools to gather insights and help businesses.</h3>
 
 - 🔭 I’m currently working on **Machine Learning.**
 
